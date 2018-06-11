@@ -16,5 +16,3 @@ list_format = 2
 image = ""
 caption = ""
 +++
-
-Grubbs, JB & Exline, JJ
