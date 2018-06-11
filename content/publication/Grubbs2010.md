@@ -1,6 +1,6 @@
 +++
 title = "The Cyber-Pornography Use Inventory: The development of a new assessment instrument"
-date = {2010}
+date = 2010-06-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
