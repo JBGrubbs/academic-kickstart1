@@ -18,8 +18,8 @@ authors = ["Joshua B. Grubbs", "Joshua A. Wilt", "Julie J. Exline", "Kenneth I. 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = “Addiction“
-publication_short = "Addiction"
+publication = 'Addiction'
+publication_short = 'Addiction'
 
 # Abstract and optional shortened version.
 abstract = ""
