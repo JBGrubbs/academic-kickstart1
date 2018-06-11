@@ -1,9 +1,8 @@
 +++
 title = "Moral incongruence and pornography use: A critical review and integration"
-date = 2018-02-07
+date = 2018-03-01
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Joshua B. Grubbs", "Samuel L. Perry"]
 
 # Publication type.
@@ -18,8 +17,8 @@ authors = ["Joshua B. Grubbs", "Samuel L. Perry"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = “Journal of Sex Research“
-publication_short = ""
+publication = 'Journal of Sex Research'
+publication_short = 'Journal of Sex Research'
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -44,14 +43,14 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/6p5k9/"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1080/00224499.2018.1427204"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
