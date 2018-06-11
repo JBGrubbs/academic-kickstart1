@@ -41,4 +41,4 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-
+My research group currently has a number of research projects going on involving behavioral addictions (such as gambling or compulsive sexuality), religious and spiritual struggles, religious disaffiliation, and internet pornography use habits.
