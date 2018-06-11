@@ -3,7 +3,6 @@ title = "Moral disapproval and perceived addiction to internet pornography: A lo
 date = 2018-03-01
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Joshua B. Grubbs", "Joshua A. Wilt", "Julie J. Exline", "Kenneth I. Pargament", "Shane W. Kraus"]
 
 # Publication type.
