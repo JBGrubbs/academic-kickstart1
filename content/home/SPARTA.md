@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-The SPARTA Lab consists of myself and my graduate students.
+The SPARTA lab (Science of Personality, Addiction, and Religion, Throughout Adulthood) at Bowling Green State University is comprised of myself and my current graduate students. At this point in time, our research groups has several lines of research in various stages of development. Current projects include examininations of pathological gambling and religious and spiritual wellbeing, examinations of the process and effects of leaving a religious group, studies of sexuality and spiritual functioning, and studies of how self-perception influences one's interpretation of their own behaviors.  Current members of our lab include Brandon Gordon, Jenny Grant, Joel Engelman, Shanti James, and Brinna Price.
