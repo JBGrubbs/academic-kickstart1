@@ -3,7 +3,7 @@ title = "Moral disapproval and perceived addiction to internet pornography: A lo
 date = 2018-03-01
 draft = false
 
-authors = ["Joshua B. Grubbs", "Joshua A. Wilt", "Julie J. Exline", "Kenneth I. Pargament", "Shane W. Kraus"]
+authors = ["Joshua B. Grubbs", "Joshua A. Wilt", "Julie J. Exline", "Kenneth I. Pargament", "Shane W. Kraus"].
 
 # Publication type.
 # Legend:
