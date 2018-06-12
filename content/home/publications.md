@@ -33,6 +33,8 @@ list_format = 3
 publication_type = "2"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 +++
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F4363532%2Fcollections%2FS4BPJPK5%2Fitems%3Fkey%3DJ3t2F1hb6E9Yc7JY7jR0psLI%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
