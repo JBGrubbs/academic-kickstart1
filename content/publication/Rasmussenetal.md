@@ -21,7 +21,7 @@ publication = 'Journal of Sex Research'
 publication_short = 'Journal of Sex Research'
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "In a large online survey of undergraduates, we examined the degree to which social desirability concerns might bias pornography-related self-reports and whether these biases are stronger among highly religious participants than among less-religious ones. Recent state-level analyses have put forward a controversial suggestion that religious individuals tend to search for pornography more than their less-religious peers, despite self-reports to the contrary. Such results could be explained by a social-desirability bias against reporting the consumption of pornography, one that applies specifically to religious individuals. Though our findings are limited to undergraduates in the U.S. Midwest, we found some evidence that the desire to positively self-present (as measured by the Marlowe–Crowne social desirability scale) may bias reports of pornography consumption and perceptions of pornography’s effects (e.g., perceptions of addictiveness). However, contrary to popular sentiment—and our own hypotheses—we found no evidence for and much evidence against the suggestion that religious individuals have a more pronounced social desirability bias against the reporting of pornography consumption than the irreligious. Interaction terms assessing that possibility were either nonsignificant or significant in the reverse direction."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
