@@ -11,7 +11,7 @@ title = "SPARTA Lab"
 subtitle = "Science of Personality, Addiction, and Religion Throughout Adulthood"
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 +++
 
