@@ -9,7 +9,7 @@ title = "Jenny Grant"
 summary = "2nd year clinical psychology PhD student."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "JennyGrant.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Jenny Grant", "Student"]`
