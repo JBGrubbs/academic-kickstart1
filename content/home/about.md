@@ -37,6 +37,7 @@ weight = 5
 +++
 
 # Biography
+I am currently an assistant professor in the APA Accredited Clinical Psychology Ph.D. program at Bowling Green State University.
 
 My research (and the research of the SPARTA lab) falls primarily into three domains: the scientific study of addiction, personality, and religion (particularly as it relates to addiction and personality).
 
