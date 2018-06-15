@@ -27,4 +27,6 @@ image = ""
 caption = ""
 
 +++
-I am currently a second year student in the clinical psychology Ph.D. program at BGSU. 
+Joel is currently a second year student in the clinical psychology Ph.D. program at BGSU. 
+
+Joel is researching the psychological processes involved in religious disaffiliation and religious switching, particularly for individuals from more insular or conservative religious groups.  He is interested in how those processes could potentially impact psychological wellbeing.  Further, he is interested in understanding how developmental, social, and personality factors affect the individual processes of religious disaffiliation and religious switching.  Finally, he is interested in comparing the exit experiences from specific religious groups and how they impact wellbeing.
