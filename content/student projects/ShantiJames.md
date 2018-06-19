@@ -3,13 +3,13 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Brandon Gordon"
+title = "Shanti James"
 
 # Project summary to display on homepage.
-summary = "3rd year clinical psychology PhD student."
+summary = "1st year clinical psychology PhD student."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "BrandonGordon.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Jenny Grant", "Student"]`
@@ -27,6 +27,5 @@ image = ""
 caption = ""
 
 +++
-I am currently a third year student in the clinical psychology Ph.D. program at BGSU. 
+I am currently a first year student in the clinical psychology Ph.D. program at BGSU. 
 
-Brandon primarily studies how Eastern religions affect mental health. More specifically, he investigates how Tantric Buddhism and other Tantric traditions affect people's quality of romantic relationships. The title of his Master's thesis is "Development and Validation of a Tantric Sex Scale." He plans to expand his research into hypo-egoic phenomena and how selflessness is related to individual well-being.  
