@@ -12,8 +12,8 @@ summary = "1st year clinical psychology PhD student."
 image_preview = ""
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["Jenny Grant", "Student"]`
-tags = ["Brandon Gordon", "Student"]
+# Example: `tags = ["Shanti James", "Student"]`
+tags = ["Shanti James", "Student"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
