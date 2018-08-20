@@ -24,7 +24,7 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "PhD in Psychological Sciences"
+  course = "PhD in Psychology"
   institution = "Case Western Reserve University"
   year = 2016
 
