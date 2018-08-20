@@ -271,6 +271,11 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 3
+  
+  [[menu.main]]
+  name = "Current Projects"
+  url = "#Funding"
+  weight = 4
 
 [[menu.main]]
   name = "Current Students"
