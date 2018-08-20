@@ -7,7 +7,7 @@ date = 2016-04-27T00:00:00
 title = "Gambling and Traumatic Stress: Analyses in Veteran and Community Samples"
 
 # Project summary to display on homepage.
-summary = "A one year pilot grant funded by the National Center of Responsible Gaming. 
+summary = "2017: A one year pilot grant funded by the National Center of Responsible Gaming. 
 PI: Joshua B. Grubbs, Ph.D."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
