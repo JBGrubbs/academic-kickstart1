@@ -274,7 +274,7 @@ enableGitInfo = false
   
   [[menu.main]]
   name = "Current Projects"
-  url = "#funding"
+  url = "#Funding1"
   weight = 4
 
 [[menu.main]]
