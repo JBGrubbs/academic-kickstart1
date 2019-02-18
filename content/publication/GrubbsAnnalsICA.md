@@ -1,6 +1,5 @@
 +++
-title = "Internet Pornography Use and Sexual Motivation: A Systematic Review and Integration
-"
+title = "Internet Pornography Use and Sexual Motivation: A Systematic Review and Integration"
 date = 2019
 draft = false
 
