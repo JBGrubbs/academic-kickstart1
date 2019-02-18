@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "/static/img/2017-09-20_Sexual_Media_Review.pdf"
+url_pdf = "/publication/2019-02-07 Systematic Review IDENTIFIED.pdf"
 url_preprint = "https://psyarxiv.com/jevb7"
 url_code = ""
 url_dataset = ""
