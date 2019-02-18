@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "academic-kickstart1/static/img/2017-09-20_Sexual_Media_Review.pdf"
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/jevb7"
 url_code = ""
 url_dataset = ""
 url_project = ""
