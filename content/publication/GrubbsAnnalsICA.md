@@ -1,6 +1,6 @@
 +++
 title = "Internet Pornography Use and Sexual Motivation: A Systematic Review and Integration"
-date = 2019
+date = 2019-03-01
 draft = false
 
 authors = ["Joshua B. Grubbs", "Paul J. Wright", "Abby Braden", "Joshua A. Wilt", "Shane W. Kraus"]
