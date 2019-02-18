@@ -1,6 +1,6 @@
 +++
 title = "Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis"
-date = 2018-08-01
+date = 2019-02-12
 draft = false
 
 authors = ["Joshua B. Grubbs", "Samuel L. Perry", "Joshua A. Wilt", "Rory C. Reid"]
@@ -50,7 +50,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "10.1007/s10508-018-1248-x"
+url_source = "https://link.springer.com/article/10.1007/s10508-018-1248-x"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
