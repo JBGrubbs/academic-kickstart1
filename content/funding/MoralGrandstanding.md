@@ -4,10 +4,10 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Gambling and Traumatic Stress: Analyses in Veteran and Community Samples"
+title = "Moral Grandstanding"
 
 # Project summary to display on homepage.
-summary = "2017: A one year seed grant funded by the National Center of Responsible Gaming. PI: Joshua B. Grubbs, Ph.D."
+summary = "2017-2020: A multi-project research program funded by the Charles Koch Foundation, the National Institute for Civil Discourse, and Bowling Green State University. PI: Joshua B. Grubbs, Ph.D., Co-PI's Brandon Warmke and Justin Tosi"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
