@@ -290,6 +290,11 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 5
+  
+ [[menu.main]]
+  name = "CV"
+  url = "content/home/GrubbsCV.PDF"
+  weight = 7 
 
 # Taxonomies.
 [taxonomies]
