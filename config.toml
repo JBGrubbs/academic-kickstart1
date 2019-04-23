@@ -247,6 +247,11 @@ enableGitInfo = false
     icon = "orcid"
     icon_pack = "ai"
     link = "http://orcid.org/0000-0002-2642-1351"
+    
+    [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "GrubbsCV.pdf"
 
 
 # Navigation Links
