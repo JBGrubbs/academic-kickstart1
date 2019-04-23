@@ -251,8 +251,7 @@ enableGitInfo = false
     [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "content/home/GrubbsCV.PDF"
-
+    url_pdf = "content/home/GrubbsCV.PDF"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
