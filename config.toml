@@ -293,7 +293,7 @@ enableGitInfo = false
   
  [[menu.main]]
   name = "CV"
-  {{% staticref "static/img/GrubbsCV.PDF" %}
+  url = "https://drive.google.com/file/d/1Sqnl_7JWYH1Ky1nwfKPNYIv6rBwy9E64/view?usp=sharing"
   weight = 7 
 
 # Taxonomies.
