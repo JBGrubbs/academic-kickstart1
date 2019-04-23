@@ -251,7 +251,7 @@ enableGitInfo = false
     [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "static/img/GrubbsCV.PDF"
+    link = "https://drive.google.com/file/d/1Sqnl_7JWYH1Ky1nwfKPNYIv6rBwy9E64/view?usp=sharing"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -293,7 +293,7 @@ enableGitInfo = false
   
  [[menu.main]]
   name = "CV"
-  url = "static/img/GrubbsCV.PDF"
+  url = "https://drive.google.com/file/d/1Sqnl_7JWYH1Ky1nwfKPNYIv6rBwy9E64/view?usp=sharing"
   weight = 7 
 
 # Taxonomies.
