@@ -293,7 +293,7 @@ enableGitInfo = false
   
  [[menu.main]]
   name = "CV"
-  url = "{{% staticref "content/home/GrubbsCV.PDF" %}}"
+  url = {{% staticref "content/home/GrubbsCV.PDF" %}}Download my CV{{% /staticref %}}
   weight = 7 
 
 # Taxonomies.
