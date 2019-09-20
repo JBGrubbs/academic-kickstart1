@@ -27,4 +27,9 @@ image = ""
 caption = ""
 
 +++
-I am currently a third year student in the clinical psychology Ph.D. program at BGSU. My research interests are varied, but tend to focus on topics of addiction and religion/spirituality.
+I am currently a third-year student in the clinical Ph.D. program at BGSU, but I am originally from Wales (UK) and I did my undergraduate degree at John Carroll University in Cleveland, Ohio.
+My research interests tend to focus on topics of addiction and religion/spirituality, but I am also interested in research surrounding trauma. My Master’s Thesis, entitled “The Effect of Gambling on Religious and Spiritual Struggles,” was a longitudinal analysis looking at how gambling problem severity, gambling motives and gambling related cognitions predict all six religious and spiritual struggles. I, along with Josh Grubbs and Shane Kraus, also contributed a chapter on gambling for the textbook Addictions: Elements, History, Treatments, and Research. Finally, I am currently working on a number of projects, including reviews of attitudes towards addiction treatment, acceptance of moderate drinking and drug use, and research of compulsive sexual behaviour disorder, a study about substance use and religious and spiritual struggles, and qualitative study on perceptions of psychological treatment for trauma survivors.
+  
+Grant, J. T., Grubbs, J. B., & Kraus, S. W. (2019). Gambling. In F. R. Frankenberg Addictions: Elements, History, Examples, And Research. ABC-Clio.
+Grant, J., & Grubbs, J. (2018, October 2). The effect of gambling on religious and spiritual struggles. Retrieved from osf.io/srvd7
+Rosenberg, H., Grant, J. T., & Davis, A. (ongoing). Acceptance of non-abstinence as an outcome goal for individuals diagnosed with substance use disorders: A narrative review of published research.
