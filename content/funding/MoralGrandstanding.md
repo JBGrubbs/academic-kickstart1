@@ -36,4 +36,7 @@ Through a combination of funding efforts supported, in part, by the Charles Koch
 
 Resulting Publications:
 
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F4363532%2Fcollections%2FIMS7S7JL%2Fitems%3Fkey%3DStep65twuHbRG1Qrk1WHIRJ2%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+
 "
