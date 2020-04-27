@@ -6,7 +6,7 @@ active = false
 date = 2016-04-20T00:00:00
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "A collection of my writing for popular audiences"
 
 # Order that this section will appear in.
 weight = 40
@@ -25,3 +25,4 @@ count = 5
 #   1 = Detailed
 list_format = 1
 +++
+Over the years I have written a number of popular media summaries relevant to my research, my experiences as a clinical psychological scientist, and my experiences as a professor. Below, you can find links to these various posts.
