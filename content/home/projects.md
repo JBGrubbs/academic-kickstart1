@@ -41,4 +41,4 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-The students in the SPARTA lab have a number of research projects going on involving sexuality and spirituality, Tantra and Tantric sex, behavioral addictions (such as gambling or compulsive sexuality), religious and spiritual struggles, religious disaffiliation, and internet pornography use habits. Please click on any student below to learn more about their research and the research of the SPARTA lab.
+The students in the SPARTA lab have a number of research projects going on involving sexuality, behavioral addictions (such as gambling or compulsive sexuality), religious and spiritual struggles, religious disaffiliation, and internet pornography use habits. Please click on any student below to learn more about their research and the research of the SPARTA lab.
