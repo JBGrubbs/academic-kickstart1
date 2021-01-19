@@ -251,7 +251,7 @@ enableGitInfo = false
     [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "https://drive.google.com/file/d/15EyNMfz5mj8ks4vcTbD9rMUi7VPIuAY0/view?usp=sharing"
+    link = "https://drive.google.com/file/d/1TMYlI8KusEcHla0CAVG32kOuiafLzBh6/view?usp=sharing"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -293,7 +293,7 @@ enableGitInfo = false
   
  [[menu.main]]
   name = "CV"
-  url = "https://drive.google.com/file/d/15EyNMfz5mj8ks4vcTbD9rMUi7VPIuAY0/view?usp=sharing"
+  url = "https://drive.google.com/file/d/1TMYlI8KusEcHla0CAVG32kOuiafLzBh6/view?usp=sharing"
   weight = 7 
   
  [[menu.main]]
