@@ -1,6 +1,6 @@
 +++
 title = "Pornography Use and Psychological Science: A Call for Consideration"
-date = January 15, 2021
+date =  2021-01-15 
 draft = false
 
 authors = ["Joshua B. Grubbs", "Shane W. Kraus"]
