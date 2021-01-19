@@ -36,7 +36,8 @@ publication_type = "2"
 exclude_selected = true
 +++
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F4363532%2Fcollections%2FVA6F8VVJ%2Fitems%3Fkey%3D073Tg6ih3Cm0FmeHYnqHJ2qk%26format%3Dbibtex%26limit%3D100&jsonp=1&folding=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FJBGrubbs%2Facademic-kickstart1%2Fmaster%2Fcontent%2Fpublication%2FPersonal%2520Publications.bib&jsonp=1"></script>
+
 
 
 
