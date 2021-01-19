@@ -35,9 +35,6 @@ publication_type = "2"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = true
 +++
-
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FJBGrubbs%2Facademic-kickstart1%2Fmaster%2Fcontent%2Fpublication%2FPersonal%2520Publications.bib&folding=1"></script>
-
-
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FJBGrubbs%2Facademic-kickstart1%2Fmaster%2Fcontent%2Fpublication%2FPersonal%2520Publications.bib&jsonp=1&folding=1"></script>
 
 
