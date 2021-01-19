@@ -36,7 +36,7 @@ publication_type = "2"
 exclude_selected = true
 +++
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FJBGrubbs%2Facademic-kickstart1%2Fmaster%2Fcontent%2Fpublication%2FPersonal%2520Publications.bib&jsonp=0"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FJBGrubbs%2Facademic-kickstart1%2Fmaster%2Fcontent%2Fpublication%2FPersonal%2520Publications.bib&folding=1"></script>
 
 
 
