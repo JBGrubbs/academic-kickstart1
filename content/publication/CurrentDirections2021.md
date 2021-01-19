@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://journals.sagepub.com/eprint/PAQGMD9GXPAWDFXGVRE3/full"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -50,7 +50,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "http://dx.doi.org/10.1177/0963721420979594"
+url_source = "https://journals.sagepub.com/eprint/PAQGMD9GXPAWDFXGVRE3/full"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
