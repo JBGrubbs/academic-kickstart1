@@ -27,11 +27,12 @@ image = ""
 caption = ""
 
 +++
-I am currently a third-year student in the clinical Ph.D. program at BGSU, but I am originally from Wales (UK) and I did my undergraduate degree at John Carroll University in Cleveland, Ohio.
+I am currently a fourth-year student in the clinical Ph.D. program at BGSU, but I am originally from Wales (UK) and I did my undergraduate degree at John Carroll University in Cleveland, Ohio.
 My research interests tend to focus on topics of addiction and religion/spirituality, but I am also interested in research surrounding trauma. My Master’s Thesis, entitled “The Effect of Gambling on Religious and Spiritual Struggles,” was a longitudinal analysis looking at how gambling problem severity, gambling motives and gambling related cognitions predict all six religious and spiritual struggles. I, along with Josh Grubbs and Shane Kraus, also contributed a chapter on gambling for the textbook Addictions: Elements, History, Treatments, and Research. Finally, I am currently working on a number of projects, including reviews of attitudes towards addiction treatment, acceptance of moderate drinking and drug use, and research of compulsive sexual behaviour disorder, a study about substance use and religious and spiritual struggles, and qualitative study on perceptions of psychological treatment for trauma survivors.
   
-Grant, J. T., Grubbs, J. B., & Kraus, S. W. (2019). Gambling. In F. R. Frankenberg Addictions: Elements, History, Examples, And Research. ABC-Clio.
+Grubbs, J. B., Grant, J. T., & Engelman, J. (2019). Self-identification as a pornography addict: Examining the roles of pornography use, religiousness, and moral incongruence. Sexual Addiction & Compulsivity, 25(4), 269–292. https://doi.org/10.1080/10720162.2019.1565848
 
-Grant, J., & Grubbs, J. (2018, October 2). The effect of gambling on religious and spiritual struggles. Retrieved from osf.io/srvd7
+Grubbs, J. B., Hoagland, K. C., Lee, B. N., Grant, J. T., Davison, P., Reid, R. C., & Kraus, S. W. (2020). Sexual addiction 25 years on: A systematic and methodological review of empirical literature and an agenda for future research. Clinical Psychology Review, 82, 101925. https://doi.org/10.1016/j.cpr.2020.101925
 
-Rosenberg, H., Grant, J. T., & Davis, A. (ongoing). Acceptance of non-abstinence as an outcome goal for individuals diagnosed with substance use disorders: A narrative review of published research.
+Gutierrez, I. A., Chapman, H., Grubbs, J., & Grant, J. (2020). The Prevalence and Impact of Religious and Spiritual Struggles among Veterans in a Residential Gambling Treatment Program. Mental Health, Religion & Culture. https://doi.org/10.31234/osf.io/mtps5
+
