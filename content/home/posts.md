@@ -26,3 +26,17 @@ count = 5
 list_format = 1
 +++
 Over the years I have written a number of popular media summaries relevant to my research, my experiences as a clinical psychological scientist, and my experiences as a professor. Below, you can find links to these various posts.
+
+
+Grubbs, J. B. (2020). Porn use is up, thanks to the pandemic; from https://theconversation.com/porn-use-is-up-thanks-to-the-pandemic-134972
+
+Grubbs, J. B. (2020). Think twice before shouting your virtues online – moral grandstanding is toxic; from https://theconversation.com/think-twice-before-shouting-your-virtues-online-moral-grandstanding-is-toxic-128493
+
+Grubbs, J. B. (2019). Politics, Pornography, and Public Health; from https://medium.com/@joshuagrubbsphd/politics-pornography-and-public-health-88c703e4e278
+
+Grubbs, J. B. (2018). Why I Won't Bring My Gun Into My Classroom: Educating can’t happen if the educators are armed. Here’s why; from https://www.bloomberg.com/news/articles/2018-02-23/a-professor-s-plea-teachers-can-t-teach-with-guns
+
+Grubbs, J. B.(2018). Educators should not be armed in their classrooms (opinion) | Inside Higher Ed; from https://www.insidehighered.com/views/2018/02/26/educators-should-not-be-armed-their-classrooms-opinion
+
+Grubbs, J. B. (2017). Why Returning a Diploma Matters; from https://www.huffpost.com/entry/why-returning-a-diploma-matters_b_59a1a5aae4b0d0ef9f1c145f 
+
