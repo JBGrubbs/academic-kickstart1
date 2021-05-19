@@ -15,8 +15,8 @@ weight = 10
 
 +++
 
-The SPARTA lab (Science of Personality, Addiction, and Religion, Throughout Adulthood) at Bowling Green State University is comprised of myself, my current graduate students, and a number of undergraduate students. At this point in time, our research group has several lines of research in various stages of development. Current projects include studies of spirituality and Tantra, examininations of pathological gambling and religious and spiritual wellbeing, examinations of the process and effects of leaving a religious group, studies of sexuality and spiritual functioning, and studies of how self-perception influences one's interpretation of their own behaviors.  Current graduate student members of our lab include Brandon Gordon, Jenny Grant, Joel Engelman, Shanti James, Brinna Lee, and (as of Fall, 2019) Camille Hoagland.
+The SPARTA lab (Science of Personality, Addiction, and Religion, Throughout Adulthood) at Bowling Green State University is comprised of myself, my current graduate students, and a number of undergraduate students. At this point in time, our research group has several lines of research in various stages of development. Current projects include studies of sexual values, morality and pornography use, self-determination theory and religion, sexuality and spiritual functioning, and social determinants of beliefs about addiction.  Current graduate student members of our lab include Jenny Grant, Joel Engelman, Shanti James, Brinna Lee, Camille Hoagland, and (as of Fall 2021) Chris Floyd.
 
-We are hoping to add one additional graduate student lab member for the Fall of 2020. If you are interested in applying to work with us in the SPARTA Lab, information on applying to BGSU's clinical psychology PhD program is available here: https://www.bgsu.edu/arts-and-sciences/psychology/graduate-program/prospective-students.html
+We are hoping to add one additional graduate student lab member for the Fall of 2022. If you are interested in applying to work with us in the SPARTA Lab, information on applying to BGSU's clinical psychology PhD program is available here: https://www.bgsu.edu/arts-and-sciences/psychology/graduate-program/prospective-students.html
 
-Please note, the deadline for application is December 1st, 2019.
+Please note, the deadline for application is December 1st, 2021.
