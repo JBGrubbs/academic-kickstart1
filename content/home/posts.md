@@ -27,6 +27,11 @@ list_format = 1
 +++
 Over the years I have written a number of popular media summaries relevant to my research, my experiences as a clinical psychological scientist, and my experiences as a professor. Below, you can find links to these various posts.
 
+Grubbs, J. B. (2021). If you think you’ve got a porn addiction, you probably haven’t; from: https://psyche.co/ideas/if-you-think-youve-got-a-porn-addiction-you-probably-havent
+
+Grubbs, J. B. (2021). ‘Sex addiction’ isn’t a justification for killing, or really an addiction – it reflects a person’s own moral misgivings about sex; from: https://theconversation.com/sex-addiction-isnt-a-justification-for-killing-or-really-an-addiction-it-reflects-a-persons-own-moral-misgivings-about-sex-157543
+
+Grubbs, J. B. (2021). Atlanta-area spa killings were not about sexual addiction; from: https://www.usatoday.com/story/opinion/2021/03/23/sexual-addiction-spa-murders-atlanta-column/4771686001/
 
 Grubbs, J. B. (2020). Porn use is up, thanks to the pandemic; from https://theconversation.com/porn-use-is-up-thanks-to-the-pandemic-134972
 
