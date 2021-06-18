@@ -30,9 +30,10 @@ list_format = 3
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "2"
+publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = true
 +++
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F4363532%2Fcollections%2FVA6F8VVJ%2Fitems%3Fkey%3D8O3BSKmFCaPGBNmZ31pzQfyp%26format%3Dbibtex%26limit%3D100&jsonp=1&folding=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F4363532%2Fcollections%2FVA6F8VVJ%2Fitems%3Fkey%3D8O3BSKmFCaPGBNmZ31pzQfyp%26format%3Dbibtex%26limit%3D100&jsonp=1&folding=1"
+></script>
