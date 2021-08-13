@@ -14,7 +14,7 @@ weight = 5
     "Behavioral Addiction",
     "Diagnostic and Classification Issues in Addiction",
     "Internet Pornography Use",
-    "Psychology of Religion and Spirituality"
+    "Human Sexuality"
   ]
 
 # List your qualifications (such as academic degrees).
