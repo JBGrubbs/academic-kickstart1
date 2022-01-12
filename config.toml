@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Bowling Green State University", url = "https://www.bgsu.edu/arts-and-sciences/psychology/people/joshua-grubs.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Grubbs_Joshua.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "GrubbsJ@BGSU.edu"
   address = "Office 246, Psychology Building, Bowling Green State University, Bowling Green, OH, 43443"
   office_hours = "Email for appointment"
