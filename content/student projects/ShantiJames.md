@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Shanti James"
 
 # Project summary to display on homepage.
-summary = "3rd year clinical psychology PhD student."
+summary = "4th year clinical psychology PhD student."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "shanti.jpg"
