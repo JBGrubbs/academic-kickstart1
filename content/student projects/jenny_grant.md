@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Jenny Grant"
 
 # Project summary to display on homepage.
-summary = "4th year clinical psychology PhD student."
+summary = "5th year clinical psychology PhD student."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "JennyGrant.jpg"
@@ -27,12 +27,19 @@ image = ""
 caption = ""
 
 +++
-I am currently a fourth-year student in the clinical Ph.D. program at BGSU, but I am originally from Wales (UK) and I did my undergraduate degree at John Carroll University in Cleveland, Ohio.
-My research interests tend to focus on topics of addiction and religion/spirituality, but I am also interested in research surrounding trauma. My Master’s Thesis, entitled “The Effect of Gambling on Religious and Spiritual Struggles,” was a longitudinal analysis looking at how gambling problem severity, gambling motives and gambling related cognitions predict all six religious and spiritual struggles. I, along with Josh Grubbs and Shane Kraus, also contributed a chapter on gambling for the textbook Addictions: Elements, History, Treatments, and Research. Finally, I am currently working on a number of projects, including reviews of attitudes towards addiction treatment, acceptance of moderate drinking and drug use, and research of compulsive sexual behaviour disorder, a study about substance use and religious and spiritual struggles, and qualitative study on perceptions of psychological treatment for trauma survivors.
+I am currently a fifth-year student in the clinical Ph.D. program at BGSU, but I am originally from Wales (UK) and I did my undergraduate degree at John Carroll University in Cleveland, Ohio.
+My research interests tend to focus on topics of addiction and religion/spirituality, but I am also interested in research surrounding trauma. My Master’s Thesis, entitled “The Effect of Gambling on Religious and Spiritual Struggles,” was a longitudinal analysis looking at how gambling problem severity, gambling motives and gambling related cognitions predict all six religious and spiritual struggles. My dissertation is concerned with the social construction of addiction and how people attribute addictiveness to various activities and substances.  I am currently working on a number of projects, including reviews of attitudes towards addiction treatment, acceptance of moderate drinking and drug use, and research of compulsive sexual behaviour disorder, a study about substance use and religious and spiritual struggles, and qualitative study on perceptions of psychological treatment for trauma survivors.
   
-Grubbs, J. B., Grant, J. T., & Engelman, J. (2019). Self-identification as a pornography addict: Examining the roles of pornography use, religiousness, and moral incongruence. Sexual Addiction & Compulsivity, 25(4), 269–292. https://doi.org/10.1080/10720162.2019.1565848
+Grant Weinandy, J. T., & Grubbs, J. B. (2021). Gambling with God: The effect of gambling on religious and spiritual struggles. <i>Mental Health, Religion & Culture</i>. https://www.tandfonline.com/doi/full/10.1080/13674676.2021.1878491 
 
-Grubbs, J. B., Hoagland, K. C., Lee, B. N., Grant, J. T., Davison, P., Reid, R. C., & Kraus, S. W. (2020). Sexual addiction 25 years on: A systematic and methodological review of empirical literature and an agenda for future research. Clinical Psychology Review, 82, 101925. https://doi.org/10.1016/j.cpr.2020.101925
 
-Gutierrez, I. A., Chapman, H., Grubbs, J., & Grant, J. (2020). The Prevalence and Impact of Religious and Spiritual Struggles among Veterans in a Residential Gambling Treatment Program. Mental Health, Religion & Culture. https://doi.org/10.31234/osf.io/mtps5
+Grant Weinandy, J. T., & Grubbs, J. B. (2021). Religious and Spiritual Beliefs and Attitudes Towards Addiction and Addiction Treatment: A Scoping Review. <i>Addictive Behaviors Reports</i>, 100393. https://doi.org/10.1016/j.abrep.2021.100393
+
+Grubbs, J. B., Perry, S. L., Grant Weinandy, J. T., & Kraus, S. W. (2021). Porndemic? A Longitudinal Study of Pornography Use Before and During the COVID-19 Pandemic in a Nationally Representative Sample of Americans. <i>Archives of Sexual Behavior</i>. https://doi.org/10.1007/s10508-021-02077-7 
+
+Grubbs, J. B., Grant, J. T., & Engelman, J. (2019). Self-identification as a pornography addict: Examining the roles of pornography use, religiousness, and moral incongruence. <i>Sexual Addiction & Compulsivity</i>, 25(4), 269–292. https://doi.org/10.1080/10720162.2019.1565848
+
+Grubbs, J. B., Hoagland, K. C., Lee, B. N., Grant, J. T., Davison, P., Reid, R. C., & Kraus, S. W. (2020). Sexual addiction 25 years on: A systematic and methodological review of empirical literature and an agenda for future research. <i>Clinical Psychology Review</i>, 82, 101925. https://doi.org/10.1016/j.cpr.2020.101925
+
+Gutierrez, I. A., Chapman, H., Grubbs, J., & Grant, J. (2020). The Prevalence and Impact of Religious and Spiritual Struggles among Veterans in a Residential Gambling Treatment Program. <i>Mental Health, Religion & Culture</i>. https://doi.org/10.31234/osf.io/mtps5
 
