@@ -27,10 +27,12 @@ image = ""
 caption = ""
 
 +++
-Shanti James is a second year doctoral student. Her research ideas currently revolve around how personality traits and demographics may predict the way people engage in public discourse and civic life. She is also curious about the development and intrapersonal function of polarized thinking, and about ways evolutionary psychology can inform personality research.
+Shanti James is a fourth-year doctoral student. Her research ideas currently revolve around how personality traits and demographics may predict the way people engage in public discourse and civic life. She is also curious about the development and intrapersonal function of polarized thinking, and about ways evolutionary psychology can inform personality research.
 
-Grubbs, J. B., Warmke, B., Tosi, J., & James, A. S. (2020). Moral grandstanding and political polarization: A multi-study consideration. Journal of Research in Personality, 88, 104009. https://doi.org/10.1016/j.jrp.2020.104009
+Grubbs, J. B., James, A. S., Warmke, B., & Tosi, J. (2022). Moral Grandstanding, Narcissism, and Self-Reported Responses to the COVID-19 Crisis. <i>Journal of Research in Personality</i>, 104187. https://doi.org/10.1016/j.jrp.2021.104187
 
-Grubbs, J. B., Warmke, B., Tosi, J., James, A. S., & Campbell, W. K. (2019). Moral grandstanding in public discourse: Status-seeking motives as a potential explanatory mechanism in predicting conflict. PLOS ONE, 14(10), e0223749. https://doi.org/10.1371/journal.pone.0223749
+Grubbs, J. B., Warmke, B., Tosi, J., & James, A. S. (2020). Moral grandstanding and political polarization: A multi-study consideration. <i>Journal of Research in Personality, 88 </i>, 104009. https://doi.org/10.1016/j.jrp.2020.104009
+
+Grubbs, J. B., Warmke, B., Tosi, J., James, A. S., & Campbell, W. K. (2019). Moral grandstanding in public discourse: Status-seeking motives as a potential explanatory mechanism in predicting conflict. <i>PLOS ONE</i>, 14(10), e0223749. https://doi.org/10.1371/journal.pone.0223749
 
 
