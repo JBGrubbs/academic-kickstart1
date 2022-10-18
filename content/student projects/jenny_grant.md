@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Jenny Grant"
 
 # Project summary to display on homepage.
-summary = "5th year clinical psychology PhD student."
+summary = "6th year clinical psychology PhD student; clinical psychology intern"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "JennyGrant.jpg"
@@ -27,7 +27,7 @@ image = ""
 caption = ""
 
 +++
-I am currently a fifth-year student in the clinical Ph.D. program at BGSU, but I am originally from Wales (UK) and I did my undergraduate degree at John Carroll University in Cleveland, Ohio.
+I am currently a sixth-year student in the clinical Ph.D. program at BGSU and a clinical intern at the New Mexico VA Health Sciences Consortium but I am originally from Wales (UK) and I did my undergraduate degree at John Carroll University in Cleveland, Ohio.
 My research interests tend to focus on topics of addiction and religion/spirituality, but I am also interested in research surrounding trauma. My Master’s Thesis, entitled “The Effect of Gambling on Religious and Spiritual Struggles,” was a longitudinal analysis looking at how gambling problem severity, gambling motives and gambling related cognitions predict all six religious and spiritual struggles. My dissertation is concerned with the social construction of addiction and how people attribute addictiveness to various activities and substances.  I am currently working on a number of projects, including reviews of attitudes towards addiction treatment, acceptance of moderate drinking and drug use, and research of compulsive sexual behaviour disorder, a study about substance use and religious and spiritual struggles, and qualitative study on perceptions of psychological treatment for trauma survivors.
   
 Grant Weinandy, J. T., & Grubbs, J. B. (2021). Gambling with God: The effect of gambling on religious and spiritual struggles. <i>Mental Health, Religion & Culture</i>. https://www.tandfonline.com/doi/full/10.1080/13674676.2021.1878491 
