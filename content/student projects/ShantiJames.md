@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Shanti James"
 
 # Project summary to display on homepage.
-summary = "4th year clinical psychology PhD student."
+summary = "5th year clinical psychology PhD student."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "shanti.jpg"
@@ -27,7 +27,7 @@ image = ""
 caption = ""
 
 +++
-Shanti James is a fourth-year doctoral student. Her research ideas currently revolve around how personality traits and demographics may predict the way people engage in public discourse and civic life. She is also curious about the development and intrapersonal function of polarized thinking, and about ways evolutionary psychology can inform personality research.
+Shanti James is a fifth-year doctoral student. Her research ideas currently revolve around how personality traits and demographics may predict the way people engage in public discourse and civic life. She is also curious about the development and intrapersonal function of polarized thinking, and about ways evolutionary psychology can inform personality research.
 
 Grubbs, J. B., James, A. S., Warmke, B., & Tosi, J. (2022). Moral Grandstanding, Narcissism, and Self-Reported Responses to the COVID-19 Crisis. <i>Journal of Research in Personality</i>, 104187. https://doi.org/10.1016/j.jrp.2021.104187
 
