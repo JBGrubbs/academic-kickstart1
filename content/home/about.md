@@ -46,5 +46,3 @@ The largest portion of my current research program is concerned with addiction. 
 With regards to personality, I am particularly interested in the role that specific personality traits play in influencing the experience and expression of psychopathology. In this vein, I generally study narcissistic traits such as entitlement, grandiosity, and antagonism, and their domain specific manifestations such as Moral Grandstanding.
 
 In addition to these domains, I am also interested promoting replicability, reproducibility, and transparency in the scientific process.  I strive to conduct my research in accordance with current standards of transparency and openness, and I encourage my students to do the same. You can find more information about my current projects at my Open Science Framework page (link available below profile picture) and a complete list of my publications at my Google Scholar page (link available below profile picture).
-
- 
