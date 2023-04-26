@@ -10,10 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Clinical Psychology",
+    "Clinical Science",
     "Behavioral Addiction",
     "Diagnostic and Classification Issues in Addiction",
-    "Internet Pornography Use",
+    "Gambling",
+    "Compulsive Sexual Behavior",
     "Human Sexuality"
   ]
 
