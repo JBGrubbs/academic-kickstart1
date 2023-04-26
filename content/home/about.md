@@ -37,7 +37,7 @@ weight = 5
 +++
 
 # Biography
-I am currently an associate professor in the APA Accredited Clinical Psychology Ph.D. program at Bowling Green State University.
+I am currently an associate professor in the PCSAS Accredited Clinical Science Ph.D. program in the Department of Psychlogy at the University of New Mexico. I am also an investigator in the Center for Alcohol, Substance use, And Addiction (CASAA) at the University of New Mexico.
 
 My research (and the research of the SPARTA lab) is primarily concerned with the scientific study of addiction, personality, and morality (particularly as it relates to addiction and personality).
 
