@@ -39,7 +39,7 @@ weight = 5
 # Biography
 I am currently an associate professor in the PCSAS Accredited Clinical Science Ph.D. program in the Department of Psychlogy at the University of New Mexico. I am also an investigator in the Center for Alcohol, Substance use, And Addiction (CASAA) at the University of New Mexico.
 
-My research (and the research of the SPARTA lab) is primarily concerned with the scientific study of addiction, personality, and morality (particularly as it relates to addiction and personality).
+My research (and the research of the BAAD lab) is primarily concerned with the scientific study of addiction, personality, and morality (particularly as it relates to addiction and personality).
 
 The largest portion of my current research program is concerned with addiction. I am particularly interested in topics related to behavioral addictions or compulsive behavior patterns. My specific interests in these domains are related to the social construction of addiction. I'm also interested in the social and structural factors that shape self-perceptions of potentially addictive behaviors. Ultimately, I want to understand how self-reported beliefs about addiction influence presentation of symptoms, which, in turn, influence diagnosis, classification, and treatment of addictive behaviors. I have past and ongoing projects related to pornography use, compulsive sexual behavior more broadly, and excessive gambling behaviors.  
 
