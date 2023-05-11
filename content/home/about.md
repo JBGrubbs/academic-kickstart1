@@ -33,7 +33,6 @@ weight = 5
   course = "MA in Psychology"
   institution = "Case Western Reserve University"
   year = 2012
-
  
 +++
 
